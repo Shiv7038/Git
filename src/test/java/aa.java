@@ -15,5 +15,6 @@ public class aa {
             revst=revst+rev+" ";
         }
         System.out.println(revst);
+
     }
 }
